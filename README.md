@@ -2,5 +2,6 @@
 help
 halo
 
-wow 
-mega
+ 
+ej szczerze
+
